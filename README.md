@@ -4,6 +4,10 @@ An endless-runner game in the style of the Chrome offline dinosaur game — but 
 
 The whole game lives in a single self-contained HTML file with no dependencies, no build step, and no internet connection required.
 
+**[▶ Live Demo](https://ahmadncheema.github.io/ninja-runner/)**
+
+![Ninja Runner preview](preview.png)
+
 ## How to play
 
 Open `ninja-runner.html` in any modern web browser (double-click it, or drag it into a browser window). Press **Start** and run.
